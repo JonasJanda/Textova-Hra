@@ -9,7 +9,6 @@ public class Main {
 		Lokace ruiny = new Lokace("Zricenine", 1, "plne rozpadlych zdi a nabytku. Muselo to vypadat nadherne pred rozpadem");
 		Lokace prokletyLes = new Lokace("Lese", 2, "davno opusteni, kam se malokdo opovazil");
 		Lokace domov = new Lokace("Stare chate", 3, "prijde ti povedome");
-		
 		Lokace posledniLokace = start;
 		
 		//startovni text
